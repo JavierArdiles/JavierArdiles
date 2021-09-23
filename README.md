@@ -22,6 +22,7 @@ I´m currently finishing the Henry Bootcamp 🥾 where I learned all you need to
 - React, Redux
 - Node, Express
 - SQL, Sequelize
+I´ve recently finished one of the final projects of the bootcamp. Check it out here --> https://github.com/JavierArdiles/PI-Dogs-FT16a
 
 I never thought I would be so passionate about programming until I stumbled upon a simple 50 hour course on introduction to programming.
 Now I can´t picture myself doing anything else for a living. Do what you´re passionate about and you´ll never work a day in your life!!!
