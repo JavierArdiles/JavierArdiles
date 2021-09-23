@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I´m a full stack developer 💻 eager to learn new technologies 🤓 and get knocked down 🥊 with problems to solve and get back up again 💪.
 I´m currently finishing the Henry Bootcamp 🥾 where I learned all you need to know to get started in the web development industry: 🔧
-- JavaScript ![javascript](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F374972.png&f=1&nofb=1)
+- JavaScript <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F374972.png&f=1&nofb=1' height=5px width=5px />
 - HTML, CSS, Bootstrap
 - React, Redux
 - Node, Express
