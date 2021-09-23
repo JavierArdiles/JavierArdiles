@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I´m a full stack developer 💻 eager to learn new technologies 🤓 and get knocked down 🥊 with problems to solve and get back up again 💪.
+I´m currently finishing the Henry Bootcamp 🥾 where I learned all you need to know to get started in the web development industry: 🔧
+- JavaScript
+- HTML, CSS, Bootstrap
+- React, Redux
+- Node, Express
+- SQL, Sequelize
+
+I never thought I would be so passionate about programming until I stumbled upon a simple 50 hour course on introduction to programming.
+Now I can´t picture myself doing anything else for a living. Do what you´re passionate about and you´ll never work a day in your life!!!
+
+Fun facts about me: I love rowing 🚣‍♀️, music (I play piano 🎹, sax 🎷 and guitar 🎸) and photogrphy 📷.
+
+Contact me via e-mail at javierardilesreibel@gmail.com 📩
