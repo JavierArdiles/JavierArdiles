@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 I´m a full stack developer 💻 eager to learn new technologies 🤓 and get knocked down 🥊 with problems to solve and get back up again 💪.
 I´m currently finishing the Henry Bootcamp 🥾 where I learned all you need to know to get started in the web development industry: 🔧
-- JavaScript <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F374972.png&f=1&nofb=1' height=30px width=30px padding-top=10px />
-- HTML, CSS, Bootstrap
+- JavaScript <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F374972.png&f=1&nofb=1' height=30px width=30px />
+- HTML <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2017%2F08%2F05%2F11%2F16%2Flogo-2582748_1280.png&f=1&nofb=1' height=30px width=30px /> CSS <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.armortechs.com%2Fupload%2Fimage%2Fblog%2Fcss-variables-css-3-logo.png&f=1&nofb=1' height=30px width=30px /> Bootstrap <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconpacks.net%2Ficons%2F3%2Ffree-bootstrap-logo-icon-5634-thumb.png&f=1&nofb=1' height=30px width=30px />
 - React, Redux
 - Node, Express
 - SQL, Sequelize
