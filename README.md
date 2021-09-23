@@ -25,7 +25,7 @@ I´m currently finishing the Henry Bootcamp 🥾 where I learned all you need to
 
 I´ve recently finished one of the final projects of the bootcamp. Check it out here --> [Dog App](https://github.com/JavierArdiles/PI-Dogs-FT16a) 🐶
 
-I studied three years of civil engineering at the University of Buenos Aires and never thought I´d be so passionate about programming, until I stumbled upon a simple 20 hour course on introduction to programming.
+I studied civil engineering for two years at the University of Buenos Aires and never thought I´d be so passionate about programming. Until one day I stumbled upon a simple 20 hour course on introduction to programming, and haven´t stopped learning since then.
 Now I can´t picture myself doing anything else for a living. Do what you´re passionate about and you´ll never work a day in your life!!!
 
 Fun facts about me: I love rowing 🚣‍♀️, music (I play piano 🎹, sax 🎷 and guitar 🎸) and photogrphy 📷.
