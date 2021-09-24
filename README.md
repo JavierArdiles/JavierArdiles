@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I´m a full stack developer 💻 eager to learn new technologies 🤓, get knocked down with problems to solve 🥊 and get back up again 💪.
+I´m a full stack developer 💻 eager to learn new technologies 🤓, get knocked down with problems 🥊 and get back up again to solve them 💪.
 I´m currently finishing the Henry Bootcamp 🥾 where I learned all you need to know to get started in the web development industry: 🔧
 - JavaScript <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F374972.png&f=1&nofb=1' height=35px width=35px />
 - HTML <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipground.com%2Fimages%2Fhtml-logo-png-3.png&f=1&nofb=1' height=30px width=60px /> CSS <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.icons8.com%2Fcolor%2F1600%2Fcss3.png&f=1&nofb=1' height=35px width=40px /> Bootstrap <img src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fb%2Fb2%2FBootstrap_logo.svg%2F560px-Bootstrap_logo.svg.png&f=1&nofb=1' height=30px width=40px />
