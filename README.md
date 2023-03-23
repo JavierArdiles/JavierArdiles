@@ -28,6 +28,8 @@ One of the final projects of the bootcamp consisted in making a web page in whic
 I studied civil engineering for two years at the University of Buenos Aires and never thought I´d be so passionate about programming. Until one day I stumbled upon a simple 20 hour course on introduction to programming, and haven´t stopped learning since then.
 Now I can´t picture myself doing anything else for a living. Do what you´re passionate about and you´ll never work a day in your life!!!
 
+I´m currently working at [Amalgama](https://amalgama.co/) as a WordPress developer and have recently gone back to university to study computer engineering.
+
 Fun facts about me: I love rowing 🚣‍♀️, music (I play piano 🎹, sax 🎷 and guitar 🎸) and photogrphy 📷.
 
 Contact me via e-mail at javierardilesreibel@gmail.com 📩
